@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const url = 'http://localhost:3000'
+const url = process.env.NODE_ENV === 'development' ? 'http://localhost:3000' : ''
 let token
 
 const fetch = async () => {
