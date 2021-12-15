@@ -13,7 +13,6 @@ Product feedback app
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -33,7 +32,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<p align="center">
+  <img src="https://i.ibb.co/r0BXVpN/ss1d.png" />
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/tY1hG2M/ss2d.png" />
+</p>
 
 ### Links
 
